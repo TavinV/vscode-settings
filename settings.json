@@ -1,11 +1,10 @@
 {
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "symbols",
     "workbench.colorTheme": "One Dark Pro Night Flat",
     "editor.cursorBlinking": "phase",
-    "editor.fontFamily": "Cascadia Code",
+    "editor.fontFamily": "Dank mono",
     "editor.fontSize": 16,
     "editor.fontLigatures": true,
-    "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
     "workbench.statusBar.visible": false,
     "symbols.hidesExplorerArrows": true,
@@ -29,11 +28,21 @@
     "workbench.navigationControl.enabled": false,
     "workbench.layoutControl.enabled": false,
     "custom-ui-style.font.sansSerif": "Dank Mono",
-    "editor.lineHeight": 1.8,
+    "editor.lineHeight": 2,
     "editor.codeLens": false,
     "scm.diffDecorations": "none",
     "editor.guides.indentation": false,
     "editor.renderLineHighlight": "none",
     "workbench.tips.enabled": false,
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+    "workbench.startupEditor": "none",
+    "chat.instructionsFilesLocations": {
+        ".github/instructions": true,
+        "C:\\Users\\otavi\\AppData\\Local\\Temp\\postman-collections-post-response.instructions.md": true,
+        "C:\\Users\\otavi\\AppData\\Local\\Temp\\postman-collections-pre-request.instructions.md": true,
+        "C:\\Users\\otavi\\AppData\\Local\\Temp\\postman-folder-post-response.instructions.md": true,
+        "C:\\Users\\otavi\\AppData\\Local\\Temp\\postman-folder-pre-request.instructions.md": true,
+        "C:\\Users\\otavi\\AppData\\Local\\Temp\\postman-http-request-post-response.instructions.md": true,
+        "C:\\Users\\otavi\\AppData\\Local\\Temp\\postman-http-request-pre-request.instructions.md": true
+    }
 }
