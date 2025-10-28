@@ -52,7 +52,3 @@ Esses arquivos são configurados para fornecer orientações detalhadas sobre o 
 ## Contribuindo
 
 Se você tem sugestões para melhorar estas configurações ou deseja adicionar suas próprias, fique à vontade para abrir uma *issue* ou enviar um *pull request*.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
